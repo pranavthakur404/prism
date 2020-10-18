@@ -292,4 +292,8 @@ body {
     .footer-box2 ul{
         margin-top: 30px;
     }
+    .footer-box2 ul li{
+        font-size:12px;
+    }
+
 }
